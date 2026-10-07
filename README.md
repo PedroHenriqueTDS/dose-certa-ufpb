@@ -1,1 +1,1 @@
-# dose-certa-ufpb
+O DoseCerta é um aplicativo de apoio à rotina de medicação, desenvolvido para ajudar usuários a organizar horários, registrar doses e acompanhar seu histórico com mais segurança, autonomia e acessibilidade. O projeto prioriza a proteção de dados pessoais e de saúde, a inclusão de pessoas com diferentes necessidades e a transparência sobre os limites da tecnologia. Como ferramenta de apoio, o sistema não substitui orientações médicas, não realiza diagnósticos e não altera prescrições automaticamente.
